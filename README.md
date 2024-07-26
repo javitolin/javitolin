@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 - 💬 You can ask me anything on C# and .Net 😄
-- 🔭 Check out my nugets on [Nuget.org](https://www.nuget.org/profiles/asadodevcultureblog)
+- 🔭 Check out my nugets on [nuget.org](https://www.nuget.org/profiles/asadodevcultureblog)
 - 📫 It's very easy to reach me! Just follow my Blog! [ADC](https://www.asadodevculture.com)
 - ⚡ Check out my repos down here 👇
   
